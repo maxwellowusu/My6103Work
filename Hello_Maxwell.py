@@ -3,7 +3,7 @@ print("Hello world")
 print(2 / 35)
 print (3+45)
 print(10/3, 3/10) # print numerical divisions
-print(33//3, 3//10) # print quotients from divisions
+print(44//4, 3//10) # print quotients from divisions
 print(10%3, 3%10) # print remainders from divisions
 
 #%%
